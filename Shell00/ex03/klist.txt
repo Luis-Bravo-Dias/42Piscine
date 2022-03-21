@@ -1,0 +1,5 @@
+Credentials cache: API:365FC9EF-88EC-4CC2-ADBA-BA2E32649F15
+        Principal: lleiria-@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jun 29 09:23:45 2021  Jun 29 19:23:45 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
